@@ -1,5 +1,14 @@
 # Grupo_Productivity_Prediction
 
+![](https://pandora.pucp.edu.pe/pucp/c3/images/logo_pucp.gif)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
+**Integrantes:**
+1. Darwin Padilla Gutierrez
+2. Guillermo Matos Cuba
+3. Rolando Diaz Gamboa
+
 **Predicción de productividad del conjunto de datos de empleados de prendas de vestir**  
 _Descargar_: [Archivo](https://archive.ics.uci.edu/ml/machine-learning-databases/00597/), [Descripción de los Datos](https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment+Employees#)
 
@@ -42,4 +51,6 @@ La industria de la confección es uno de los ejemplos clave de la globalización
 14 idle\_men : El número de trabajadores que estuvieron inactivos debido a la interrupción de la producción.
 15 actual\_productivity : El% real de productividad que entregaron los trabajadores. Va de 0 a 1.  
 
+**Sector de la investigación: Industria Textil**
 
+![](https://economiasustentable.com/wp-content/uploads/2020/06/textil-1000x562.jpg)
