@@ -13,10 +13,12 @@
 _Descargar_: [Archivo](https://archive.ics.uci.edu/ml/machine-learning-databases/00597/), [Descripción de los Datos](https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment+Employees#)
 
 **Resumen**: Este conjunto de datos incluye atributos importantes del proceso de fabricación de prendas de vestir y la productividad de los empleados que se recopilaron manualmente y también fueron validados por los expertos de la industria.
-| **Características de los Datos:** | `Multivariante, Series de Tiempo` | **Número de Registros:** | `1197`|**Area:** | `Negocio` |
+|  |  |  | | |  |
 |--|--|--|--|--|--|
+| **Características de los Datos:** | `Multivariante, Series de Tiempo` | **Número de Registros:** | `1197`|**Area:** | `Negocio` |
 | **Características de los atributos:** | `Entero, Real` |**Número de Atributos:** | `15` |**Fecha de Donación** | `2020-08-03` |
 | **Tareas asociadas:**  | `Classification, Regression` |**Valores faltantes?** | `YES` |**Número de visitas a la web:** | `10368` |
+|  |  |  | | |  |
 
   
 
