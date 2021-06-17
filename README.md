@@ -37,22 +37,36 @@ La industria de la confección es uno de los ejemplos clave de la globalización
 
 **Información de atributos:**
 
-01 date : Date in MM-DD-YYYY  
-02 day : Día de la semana  
-03 quarter : Una parte del mes. Un mes se dividió en cuatro trimestres.
-04 department : Departamento asociado a la instancia  
-05 team\_no : Número de equipo asociado a la instancia  
-06 no\_of\_workers : Numero de trabajadores en cada equipo  
-07 no\_of\_style\_change : Número de cambios en el estilo de un producto en particular.
-08 targeted\_productivity : Productividad dirigida establecida por la Autoridad para cada equipo para cada día.  
-09 smv : Valor minuto estándar, es el tiempo asignado para una tarea.  
-10 wip : Trabajo en progreso. Incluye el número de elementos sin terminar de los productos. 
-11 over\_time : Representa la cantidad de horas extra de cada equipo en minutos
-12 incentive : Representa la cantidad de incentivo financiero (en BDT) que habilita o motiva un curso de acción en particular.  
-13 idle\_time : La cantidad de tiempo en que se interrumpió la producción debido a varias razones.  
-14 idle\_men : El número de trabajadores que estuvieron inactivos debido a la interrupción de la producción.
-15 actual\_productivity : El% real de productividad que entregaron los trabajadores. Va de 0 a 1.  
+**01 date :** Date in MM-DD-YYYY  
+
+**02 day :** Día de la semana  
+
+**03 quarter :** Una parte del mes. Un mes se dividió en cuatro trimestres.
+
+**04 department :** Departamento asociado a la instancia  
+
+**05 team\_no :** Número de equipo asociado a la instancia  
+
+**06 no\_of\_workers :** Numero de trabajadores en cada equipo  
+
+**07 no\_of\_style\_change :** Número de cambios en el estilo de un producto en particular.
+
+**08 targeted\_productivity :** Productividad dirigida establecida por la Autoridad para cada equipo para cada día.  
+
+**09 smv :** Valor minuto estándar, es el tiempo asignado para una tarea.  
+
+**10 wip :** Trabajo en progreso. Incluye el número de elementos sin terminar de los productos.
+
+**11 over\_time :** Representa la cantidad de horas extra de cada equipo en minutos
+
+**12 incentive :** Representa la cantidad de incentivo financiero (en BDT) que habilita o motiva un curso de acción en particular.  
+
+**13 idle\_time :** La cantidad de tiempo en que se interrumpió la producción debido a varias razones.  
+
+**14 idle\_men :** El número de trabajadores que estuvieron inactivos debido a la interrupción de la producción.
+
+**15 actual\_productivity :** El% real de productividad que entregaron los trabajadores. Va de 0 a 1. 
 
 **Sector de la investigación: Industria Textil**
 
-![](https://economiasustentable.com/wp-content/uploads/2020/06/textil-1000x562.jpg)
+![](https://cloudfront-us-east-1.images.arcpublishing.com/semana/D3G2QB322JBZ7BIKD4W2AV7IRY.jpg)
